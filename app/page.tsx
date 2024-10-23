@@ -1,9 +1,12 @@
-import Image from "next/image";
+import Gallery from "./gallery/page"
+import Slider from "./component/slider"
 
-export default function Home() {
+export default function MyApp() {
+
   return (
-    < >
-    <h2>hi</h2>
-    </>
-  );
+  <>
+  <Slider />
+  <Gallery />
+  </>
+  )
 }
