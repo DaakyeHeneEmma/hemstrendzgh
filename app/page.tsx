@@ -1,11 +1,13 @@
 import Gallery from "./gallery/page"
-import Slider from "./component/slider"
+import Review from "./review/page"
+import Middle from "./component/slider"
 
 export default function MyApp() {
 
   return (
   <>
-  <Slider />
+  <Review />
+  <Middle />
   <Gallery />
   </>
   )

@@ -1,9 +1,9 @@
 import React from 'react'
 
-function page() {
+function Review() {
   return (
     <>
-        <div className="grid gap-4">
+        <div className="grid gap-4 mb-5">
             <div>
                 <img className="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/featured/image.jpg" alt="" />
             </div>
@@ -29,4 +29,4 @@ function page() {
   )
 }
 
-export default page
+export default Review
