@@ -11,7 +11,7 @@ function Gallery() {
             <img className="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image.jpg" alt="" />
         </div>
         <div>
-            <img className="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-1.jpg" alt="" />
+            <img className="h-auto max-w-full rounded-lg" src="https://kxxclxmmdkyrcsvsptqp.supabase.co/storage/v1/object/public/website/hemstrendzgh/head1.jpg" alt="" />
         </div>
         <div>
             <img className="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-2.jpg" alt="" />
@@ -33,7 +33,7 @@ function Gallery() {
             <img className="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-6.jpg" alt="" />
         </div>
         <div>
-            <img className="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-7.jpg" alt="" />
+            <img className="h-auto max-w-full rounded-lg" src="https://kxxclxmmdkyrcsvsptqp.supabase.co/storage/v1/object/public/website/hemstrendzgh/head6.jpg" alt="" />
         </div>
         <div>
             <img className="h-auto max-w-full rounded-lg" src="https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg" alt="" />
