@@ -3,8 +3,8 @@ import Navbar from "./component/navbar"
 
 
 export const metadata = {
-  title: "Tynkrait",
-  description: "Tynkrait Stores"
+  title: "Hems Trendz",
+  description: "Hems Stores"
 }
 
 export default function RootLayout({ children }:any) {
