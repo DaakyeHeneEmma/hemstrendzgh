@@ -23,8 +23,10 @@ function Gallery() {
           .modal {
             opacity: 0;
             transition: opacity 0.3s ease-in-out;
-          }
-          .modal.show {
+            
+            }
+            .modal.show {
+            z-index:10;         
             opacity: 1;
           }
         `}

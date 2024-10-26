@@ -1,6 +1,6 @@
 import Gallery from "./gallery/page"
 import Review from "./review/page"
-import Middle from "./component/slider"
+import Middle from "./component/middle"
 
 export default function MyApp() {
 
