@@ -5,7 +5,7 @@ function Gallery() {
     <>
     
 
-<div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+<div className="grid grid-cols-2 md:grid-cols-4 gap-4 pr-2 pl-2">
     <div className="grid gap-4">
         <div>
             <img className="h-auto max-w-full rounded-lg" src="https://kxxclxmmdkyrcsvsptqp.supabase.co/storage/v1/object/public/website/hemstrendzgh/image-4-ht.jpg" alt="" />
